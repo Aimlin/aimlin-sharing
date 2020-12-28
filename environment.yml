@@ -7,6 +7,5 @@ dependencies:
   - ipywidgets
   - numpy
   - pandas
-  - pymol
   - regex
   - requests
