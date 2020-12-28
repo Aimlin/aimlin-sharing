@@ -1,6 +1,8 @@
-beautifulsoup
+beautifulsoup4
+bs4
 ipython
 ipywidgets
+lxml
 numpy
 pandas
 pymol
