@@ -6,6 +6,7 @@ dependencies:
   - ipython
   - ipywidgets
   - numpy
+  - mlxtend
   - pandas
   - regex
   - requests
