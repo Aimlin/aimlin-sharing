@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - bs4
+  - ipymol
+  - ipython
+  - ipywidgets
+  - jupyter-book
+  - numpy
+  - mlxtend
+  - pandas
+  - regex
+  - requests
