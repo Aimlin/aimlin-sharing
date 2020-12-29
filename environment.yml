@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - bs4
+  - ipymol
   - ipython
   - ipywidgets
   - numpy
